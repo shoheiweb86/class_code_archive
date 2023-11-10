@@ -1,0 +1,2 @@
+_require "basis.smi"
+val printLines : string list -> unit

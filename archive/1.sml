@@ -1,0 +1,1 @@
+fun hoursToSeconds n = n * 3600;

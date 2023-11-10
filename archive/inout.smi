@@ -1,0 +1,3 @@
+_require "basis.smi"
+val inputInt : unit -> int option
+val outputInt : int -> unit

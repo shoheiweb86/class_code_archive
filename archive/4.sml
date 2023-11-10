@@ -1,0 +1,1 @@
+fun isPositive n = n * ~1 < 0;
